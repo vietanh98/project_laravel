@@ -1,0 +1,94 @@
+.demo{
+    
+    text-align: center;
+    margin: auto;
+    border-right: none;
+    border-left: none;
+    border-bottom: none;
+    border-top: 1px solid #3333;
+    margin-top: 70px;
+}
+.form{
+    margin: auto;
+    margin-top: 60px;
+}
+.demo .style-input{
+    width: 426px;
+    padding:10px;
+    padding: 15px;
+    margin-top: 20px;
+}
+.form .btn-sigup{
+    margin: auto;
+    width: 320px;
+    padding: 10px;
+    border-radius: 500px;
+    color: #FFF;
+    background-color: #1DB954;
+    margin-top: 30px;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 700;
+
+}
+.form-sigup h1{
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: rgba(0,0,0,.03);
+    border-bottom: 1px solid rgba(0,0,0,.125);
+    font-size: 20px;
+    text-align: initial;
+    font-weight: 100;
+    font-family: initial;
+
+}
+.btn-AddUser{
+    margin-top: 130px;
+}
+.form-sigup{
+    padding: 0px;
+    margin: auto;
+    padding-top: 75px;
+    text-align: center;
+    background: aliceblue
+ 
+
+}
+.form-sigup .btn-sigup{
+    margin: auto;
+    width: 320px;
+    padding: 10px;
+    border-radius: 500px;
+    color: #FFF;
+    background-color: #1DB954;
+    margin-top: 30px;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 700;
+}
+.form-sigup .style-input{
+    height: 48px;
+    margin-bottom: 10px;
+    border: 1px solid #ced4da;
+
+
+}
+.form-sigup .title-input{
+    float: left;
+    padding: 17px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.625;
+    color: #666;
+    -webkit-font-smoothing: antialiased;
+
+}
+.form-sigup .input{
+    padding: 10px;
+    margin:auto;
+}
+.form-sigup .style-form{
+    padding: 35px;
+    background-color: whitesmoke;
+}
